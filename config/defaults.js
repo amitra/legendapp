@@ -17,7 +17,7 @@ define([], function() {
         "backgroundcolor":null,
         "textcolor":null,        
         "bingmapskey": "", //Enter the url to your organizations bing maps key if you want to use bing basemaps
-        "sharinghost": location.protocol + "//" + "www.arcgis.com",
+        "sharinghost": location.protocol + "//" + "asu.maps.arcgis.com",
         //If you've registered your application with arcgis online and have an oauth client id enter that value 
         //here. 
         "oauthappid": null, 
